@@ -12,6 +12,7 @@ export function login(data) {
 export function userList(params) {
     return request({
         url: 'v1/admin_user/lists',
+        url: 'v1/admin_user/listsdddd',
         method: 'get',
         params
     })
