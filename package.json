@@ -15,7 +15,7 @@
     },
     "dependencies": {
         "@tinymce/tinymce-vue": "^3.2.1",
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "element-ui": "^2.13.1",
         "svg-sprite-loader": "^4.2.7",
         "tinymce": "^5.2.2",
